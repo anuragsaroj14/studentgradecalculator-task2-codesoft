@@ -1,1 +1,1 @@
-# studentgradecalculator-task2-@CODESOFT
+# studentgradecalculator
